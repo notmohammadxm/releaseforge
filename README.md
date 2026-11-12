@@ -8,9 +8,9 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 [![OpenAI](https://img.shields.io/badge/AI-GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/releaseforge?style=flat-square&color=gold)](https://github.com/YOUR_USERNAME/releaseforge/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/releaseforge?style=flat-square&color=blue)](https://github.com/YOUR_USERNAME/releaseforge/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/YOUR_USERNAME/releaseforge?style=flat-square&color=red)](https://github.com/YOUR_USERNAME/releaseforge/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/notmohammadxm/releaseforge?style=flat-square&color=gold)](https://github.com/notmohammadxm/releaseforge/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/notmohammadxm/releaseforge?style=flat-square&color=blue)](https://github.com/notmohammadxm/releaseforge/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/notmohammadxm/releaseforge?style=flat-square&color=red)](https://github.com/notmohammadxm/releaseforge/issues)
 
 [🚀 نصب سریع](#-نصب-سریع-quick-start) · [✨ ویژگیها](#-ویژگیها-features) · [📸 اسکرینشات](#-اسکرینشاتها--دمو) · [🛠 استک فنی](#-استک-فنی-tech-stack)
 
@@ -44,8 +44,6 @@
 
 </div>
 
-> 💡 **راهنمای ساخت دمو:** با ابزارهای رایگان مثل **ScreenToGif** (ویندوز) یا **LICEcap** (مک/ویندوز) یک کلیپ ۱۰ تا ۱۵ ثانیهای از پر کردن فرم و دیدن خروجی ضبط کنید. GIF را در پوشهی `docs/images/` قرار دهید و مطمئن شوید حجم آن زیر **۱۰ مگابایت** است (بهترین کیفیت رندر در گیتهاب).
-
 ---
 
 ## ✨ ویژگیها (Features)
@@ -71,7 +69,7 @@
 
 ### ۱. دریافت کد
 ```bash
-git clone https://github.com/YOUR_USERNAME/releaseforge.git
+git clone https://github.com/notmohammadxm/releaseforge.git
 cd releaseforge
 ```
 
@@ -136,10 +134,7 @@ php -S localhost:8000
 ```text
 releaseforge/
 ├── index.php              # فایل اصلی (فرم + منطق + فراخوانی API)
-├── .env.example           # نمونهی متغیرهای محیطی
-├── .gitignore             # فایلهای نادیدهگرفتهشده
 ├── README.md              # همین فایل
-├── LICENSE                # مجوز MIT
 └── docs/
     └── images/
         ├── screenshot-empty.png
@@ -179,13 +174,13 @@ releaseforge/
 
 ## 📄 مجوز (License)
 
-این پروژه تحت مجوز **MIT** منتشر شده است. برای اطلاعات بیشتر فایل [LICENSE](LICENSE) را ببینید.
+این پروژه تحت مجوز **MIT** منتشر شده است.
 
 ---
 
 <div align="center">
 
-ساختهشده با ❤️ و **Aurora Design System**
+ساختهشده با ❤️ در ایران
 
 [⬆ بازگشت به بالا](#-release-forge)
 
